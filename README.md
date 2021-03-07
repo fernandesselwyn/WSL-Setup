@@ -1,0 +1,2 @@
+# WSL-Setup
+Install WSL 
